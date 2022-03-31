@@ -2,14 +2,18 @@
   "$schema": "https://raw.githubusercontent.com/MaayanLab/appyter-catalog/main/schema/appyter-validator.json",
   "name": "Bulk_RNA_seq",
   "title": "Bulk RNA-seq analysis pipeline",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Bulk RNA-seq analysis pipeline enables you to analyze and visualize datasets with state-of-the-art algorithms and visualization methods.",
   "image": "screenshot.png",
   "authors": [
     {
       "name": "Minji Jeon",
       "email": "minji.jeon1@gmail.com"
-    }
+    },
+    {
+      "name": "Maxim Kuleshov",
+      "email": "maxim.kuleshov@mssm.edu"
+    }    
   ],
   "url": "https://github.com/MaayanLab/appyter-catalog",
   "tags": [
